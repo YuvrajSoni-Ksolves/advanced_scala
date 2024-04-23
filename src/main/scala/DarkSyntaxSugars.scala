@@ -1,5 +1,5 @@
 
-object main {
+object DarkSyntaxSugars {
   def aMethod(arg: Int): String = s"$arg is the arguement"
 
   def main(args: Array[String]): Unit = {
